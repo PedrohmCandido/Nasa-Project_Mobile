@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395257694459",
+    "project_id": "nasa-app-79938",
+    "storage_bucket": "nasa-app-79938.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395257694459:android:86a96fb3f5cd5fbb33485e",
+        "android_client_info": {
+          "package_name": "com.example.mynasaproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUur3mfOVJ-NOCoR7SF9hC5yiygNTs6F4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
